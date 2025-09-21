@@ -1,2 +1,1 @@
-# semitadj
-semita
+# Semita
